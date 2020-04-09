@@ -1,0 +1,7 @@
+data/.ipynb_checkpoints
+model/.ipynb_checkpoints
+data/data.csv
+*.ipynb
+__pycache__
+logs/
+saved_models/
